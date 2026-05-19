@@ -15,6 +15,6 @@ scalable enterprise web applications.
 - Mentor teams on Angular best practices
 
 ## 📫 Hire Me
-- 💼 [PeoplePerHour Profile](your-link-here)
-- 🔗 [LinkedIn](your-link-here)
-- ✍️ [Medium Articles](your-link-here)
+- 💼 [PeoplePerHour Profile](https://www.peopleperhour.com/freelancer/hasnain-sakir-angular-expert-component-libraries-zxvnjmwx)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hasniansakir/)
+- ✍️ [Medium Articles](https://medium.com/@hasnainsakir.hs/how-to-split-a-monolithic-angular-app-into-micro-frontends-using-nx-and-module-federation-23347e863df9)
