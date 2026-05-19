@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**hasnainsakir/hasnainsakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Angular Developer with 7 years of experience building 
+scalable enterprise web applications.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Frontend:** Angular, TypeScript, RxJS, NgRx, Angular Material
+- **Architecture:** Micro-frontends, Nx Workspace, Module Federation
+- **Tools:** Firebase, REST APIs, Jasmine/Karma, CI/CD, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build enterprise Angular applications from scratch
+- Architect micro-frontend systems using Nx + Module Federation
+- Optimise Angular app performance and bundle size
+- Mentor teams on Angular best practices
+
+## 📫 Hire Me
+- 💼 [PeoplePerHour Profile](your-link-here)
+- 🔗 [LinkedIn](your-link-here)
+- ✍️ [Medium Articles](your-link-here)
